@@ -153,8 +153,6 @@ def FindMinimumPath(initialState,goalState):
 
 
 
-#**************   DO NOT CHANGE ANY CODE BELOW THIS LINE *****************************
-
 
 def ReadInitialState():
     with open("initial_state4.txt", "r") as file: #IMP: If you change the file name, then there will be an error when
